@@ -31,6 +31,4 @@ fun main() {
     // Simulasi pembelian produk
     produk1.beliProduk(3)
 
-    // Menampilkan informasi produk setelah pembelian
-    produk1.tampilkanInformasi()
 }
